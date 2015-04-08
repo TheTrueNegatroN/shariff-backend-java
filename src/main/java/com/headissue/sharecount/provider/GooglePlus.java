@@ -37,7 +37,7 @@ public class GooglePlus extends ShareCountProvider {
       "    \"jsonrpc\":\"2.0\",\n" +
       "    \"key\":\"p\",\n" +
       "    \"apiVersion\":\"v1\"\n" +
-      "}]s";
+      "}]";
 
     URL url = new URL(queryUrl);
     HttpURLConnection connection = null;
